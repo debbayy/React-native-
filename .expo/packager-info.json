@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://e2-nnk.anonymous.calculator-todo.exp.direct",
+  "packagerNgrokUrl": "https://e2-nnk.anonymous.calculator-todo.exp.direct",
+  "ngrokPid": 12020,
+  "webpackServerPort": 19006
+}
